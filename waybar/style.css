@@ -1,0 +1,16 @@
+#custom-statusdot {
+  font-size: 14px;
+  padding: 0 6px;
+}
+
+#custom-statusdot.green {
+  color: #5cb85c; /* soft green */
+}
+
+#custom-statusdot.yellow {
+  color: #f0ad4e; /* muted yellow */
+}
+
+#custom-statusdot.red {
+  color: @iconcolor; /* muted red */
+}

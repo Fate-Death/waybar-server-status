@@ -1,0 +1,9 @@
+{
+  "custom/statusdot": {
+    "format": "", // ICON
+    "return-type": "json", // so we can change CSS classes dynamically
+    "exec": "~/scripts/server_status/serverstatus.sh",
+    "interval": 5, // Change according to your need
+    "on-click": "~/scripts/server_status/onClick.sh"
+  }
+}
