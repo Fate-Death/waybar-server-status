@@ -1,4 +1,9 @@
 
+# Preview
+
+
+<img width="454" height="35" alt="screenshot_30082025_223439" src="https://github.com/user-attachments/assets/2f00b707-8f1e-4521-ad2a-42c8b6072327" />
+
 # 📡 Server Status on Waybar
 
 This project provides a small script to display your **server status** directly on [Waybar](https://github.com/Alexays/Waybar).
